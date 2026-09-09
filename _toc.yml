@@ -3,4 +3,3 @@ root: index
 chapters:
   - file: EDA
   - file: PREPROCESAMIENTO
-  - file: tarea_ML

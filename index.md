@@ -61,5 +61,5 @@ Entrenamiento de algoritmos supervisados, optimización de hiperparámetros y ev
 - [Kaggle — Company Bankruptcy Prediction](https://www.kaggle.com/datasets/fedesoriano/company-bankruptcy-prediction)
 
 **Repositorio del proyecto**
-- [GitHub](https://github.com/lauraformore/Predicci-n-de-Bancarrota-Empresarial)
+- [GitHub](https://github.com/lauraformore/BancarrotaEmpresarial_ML)
 :::
